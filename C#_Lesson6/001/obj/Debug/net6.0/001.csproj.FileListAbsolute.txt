@@ -1,0 +1,15 @@
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\obj\Debug\net6.0\001.csproj.AssemblyReference.cache
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\obj\Debug\net6.0\001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\obj\Debug\net6.0\001.AssemblyInfoInputs.cache
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\obj\Debug\net6.0\001.AssemblyInfo.cs
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\obj\Debug\net6.0\001.csproj.CoreCompileInputs.cache
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\bin\Debug\net6.0\001.exe
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\bin\Debug\net6.0\001.deps.json
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\bin\Debug\net6.0\001.runtimeconfig.json
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\bin\Debug\net6.0\001.dll
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\bin\Debug\net6.0\001.pdb
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\obj\Debug\net6.0\001.dll
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\obj\Debug\net6.0\refint\001.dll
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\obj\Debug\net6.0\001.pdb
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\obj\Debug\net6.0\001.genruntimeconfig.cache
+C:\Users\kozub\OneDrive\Рабочий стол\HomeWork\HomeWork\C#_Lesson6\001\obj\Debug\net6.0\ref\001.dll
