@@ -10,3 +10,7 @@ while (M<N+1)
     Console.Write (M);
     M++;
 }
+
+
+
+
