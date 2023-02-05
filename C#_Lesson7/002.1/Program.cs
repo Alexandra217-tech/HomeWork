@@ -16,7 +16,7 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("\nВведите столбец элемента: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-if ((m<=matrix.GetLength(0))&&(n<=matrix.GetLength(1)))
+if ((m<=matrix.GetLength(0)+1)&&(n<=matrix.GetLength(1)+1))
 {
     Console.Write(matrix[m, n]);
 }
